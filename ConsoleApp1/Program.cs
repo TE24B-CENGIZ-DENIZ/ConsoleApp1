@@ -13,7 +13,7 @@ Console.WriteLine($"you now have lvl 100 {stat}");
 Console.WriteLine("what did you think of this experiance?");
 Console.ReadLine();
 
-Console.WriteLine(" thank you for your pointless feedback write somathing else to go back.");
+Console.WriteLine(" thank you for your pointless feedback write somathing else to go back.!!");
 
 
 
